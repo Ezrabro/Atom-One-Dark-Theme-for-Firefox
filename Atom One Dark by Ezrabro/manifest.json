@@ -1,0 +1,59 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Atom One Dark by Ezrabro",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(40, 44, 52)",
+      "toolbar_text": "rgb(171, 178, 191)",
+      "frame": "rgb(40, 44, 52)",
+      "tab_background_text": "rgb(171, 178, 191)",
+      "toolbar_field": "rgb(40, 44, 52)",
+      "toolbar_field_text": "rgb(171, 178, 191)",
+      "tab_line": "rgb(67, 73, 87)",
+      "popup": "rgb(40, 44, 52)",
+      "popup_text": "rgb(171, 178, 191)",
+      "button_background_active": "rgb(67, 73, 87)",
+      "button_background_hover": "rgb(67, 73, 87)",
+      "frame_inactive": "rgb(40, 44, 52)",
+      "icons_attention": "rgb(198, 120, 221)",
+      "icons": "rgb(171, 178, 191)",
+      "ntp_background": "rgb(40, 44, 52)",
+      "ntp_text": "rgb(171, 178, 191)",
+      "popup_border": "rgb(67, 73, 87)",
+      "popup_highlight_text": "rgb(231, 233, 237)",
+      "popup_highlight": "rgb(198, 120, 221)",
+      "sidebar_border": "rgb(67, 73, 87)",
+      "sidebar_highlight_text": "rgb(231, 233, 237)",
+      "sidebar_highlight": "rgb(67, 73, 87)",
+      "sidebar_text": "rgb(171, 178, 191)",
+      "sidebar": "rgb(40, 44, 52)",
+      "tab_background_separator": "rgb(67, 73, 87)",
+      "tab_selected": "rgb(40, 44, 52)",
+      "tab_text": "rgb(231, 233, 237)",
+      "toolbar_bottom_separator": "rgb(67, 73, 87)",
+      "toolbar_field_border_focus": "rgb(67, 73, 87)",
+      "toolbar_field_border": "rgb(67, 73, 87)",
+      "toolbar_field_focus": "rgb(40, 44, 52)",
+      "toolbar_field_highlight_text": "rgb(231, 233, 237)",
+      "toolbar_field_separator": "rgb(67, 73, 87)",
+      "toolbar_field_text_focus": "rgb(171, 178, 191)",
+      "toolbar_top_separator": "rgb(40, 44, 52)",
+      "toolbar_vertical_separator": "rgb(67, 73, 87)",
+      "tab_loading": "rgb(67, 73, 87)"
+    }
+  }
+}
